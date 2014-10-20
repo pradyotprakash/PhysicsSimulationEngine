@@ -1,0 +1,4 @@
+nname     	mass  charge      x          y            vx   vy
+positive1        5    -0.01        300         300         0    0
+positive2        5    0.05        100         300         0    0
+
